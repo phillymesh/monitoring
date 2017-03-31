@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "status": "Installed",
+        "host": "h.peer1.famicoman.phillymesh.net",
+        "ipv6": "fceb:7762:6914:13bc:4642:ecc7:de21:f91d"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.377738,
+          39.893373
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "status": "Installed",
+        "host": "h.peer0.famicoman.phillymesh.net",
+        "ipv6": "fc9f:990d:2b0f:75ad:8783:5d59:7c84:520b"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.380073,
+          39.879529
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
